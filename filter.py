@@ -16,13 +16,9 @@ def convert_gray_img(pixels, size, grey_step):
     step = 255 // (grey_step - 1)
     height = len(pixels)
     width = len(pixels[1])
-    pixels_x = 0
-    while pixels_x < height:
-        pixels_y = 0
-        while pixels_y < width:
+    for pixels_x in range(0, height, size):
+        for pixels_y in range(0, width, size):
             replace_pixels(pixels, pixels_x, pixels_y, size, step)
-            pixels_y = pixels_y + size
-        pixels_x = pixels_x + size
     return pixels
 
 
