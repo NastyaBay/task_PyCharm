@@ -34,3 +34,17 @@
 После преобразования filter_with_filename.py:
 
 <img src="https://github.com/NastyaBay/task_PyCharm/blob/main/res_img/res_filename.jpg">
+
+## Тесты
+
+Если тест не проходит:
+
+<img src="https://github.com/NastyaBay/task_PyCharm/blob/main/test/test_incorrect.png">
+
+Тест в методе count_gray:
+
+<img src="https://github.com/NastyaBay/task_PyCharm/blob/main/test/doc_test1.png">
+
+Тест в методе convert_gray_img:
+
+<img src="https://github.com/NastyaBay/task_PyCharm/blob/main/test/doc_test1.png">
