@@ -3,7 +3,6 @@ import numpy as np
 
 
 def count_gray(pixels, pixels_x, pixels_y, size):
-    """"""
     gray = np.sum((pixels[pixels_x: pixels_x + size, pixels_y: pixels_y + size]) / 3)
     return int(gray // (size * size))
 
