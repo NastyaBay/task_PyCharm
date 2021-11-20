@@ -17,13 +17,17 @@
 
 
 Изображение до:
+
 <img src="https://github.com/NastyaBay/task_PyCharm/blob/main/img2.jpg">
 
 После преобразования old_filter.py:
+
 <img src="https://github.com/NastyaBay/task_PyCharm/blob/main/res_img/res_old.jpg">
 
 После преобразования filter.py:
+
 <img src="https://github.com/NastyaBay/task_PyCharm/blob/main/res_img/res_filter.jpg">
 
 После преобразования filter_with_filename.py:
+
 <img src="https://github.com/NastyaBay/task_PyCharm/blob/main/res_img/res_filename.jpg">
