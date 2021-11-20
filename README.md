@@ -17,6 +17,7 @@
 
 Таким образом, если убрать ввод с консоли у улчушеного кода, то такой файл работает еще в разы быстрее, следовательно много времени тратится на ввод с консоли
 
+
 ## Изображения
 
 Изображение до:
@@ -48,3 +49,14 @@
 Тест в методе convert_gray_img:
 
 <img src="https://github.com/NastyaBay/task_PyCharm/blob/main/test/doc_test1.png">
+
+
+## Отладка
+
+Ширина, высота, тип изображения:
+
+<img src="https://github.com/NastyaBay/task_PyCharm/blob/main/debug/properties_img.png">
+
+Ширина блока, количество градаций серого:
+
+<img src="https://github.com/NastyaBay/task_PyCharm/blob/main/debug/properties_img.png">
